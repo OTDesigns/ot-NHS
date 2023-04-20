@@ -1,0 +1,34 @@
+[
+  {
+    "DlcCollectionName": "mp_f_eup",
+    "PedName": "mp_f_freemode_01",
+    "ComponentVariations": [
+      {
+        "NameHash": "CLO_DCT_LEGS_0_0_F",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 169,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "NameHash": "CLO_DCT_TOP_0_0_F",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 473,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      }
+    ],
+    "Props": [
+      {
+        "NameHash": "CLO_DCT_PROPHEAD_0_0_F",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 186,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      }
+    ]
+  }
+]
