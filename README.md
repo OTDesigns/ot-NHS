@@ -77,7 +77,6 @@ This repository was created by OT-Designs and is under the GPL V3 license.
 
 ## FiveM
 
-- Download vMenu and put it in your server/resources folder 
 
 - Open the FILES folder and drag the nhs inside the FIVEM folder, into your FiveM resources
 
