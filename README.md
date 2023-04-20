@@ -1,6 +1,6 @@
 <h1 align="center">🚑 OT-Design NHS Clothing 🚑</h1>
 
-<h2 align="center"> Female NHS clotghing for FiveM &amp; Single Player 🚑</h2>
+<h2 align="center"> Female NHS clothing for FiveM &amp; Single Player 🚑</h2>
 
 
 
